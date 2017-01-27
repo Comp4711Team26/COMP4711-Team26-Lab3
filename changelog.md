@@ -1,33 +1,18 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  Braden D'Eith (Captain) & Matt Taylor (Mate)  
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version x.x*
+Please update with every change to the repo.
 
-Release Date: Jul 26, 2027
+## *Version 0.1*
+
+Release Date: Jan 26, 2017
 
 ## New Components
 
--   controllers
+-   repo created
 
-    -   serbian (AB)
-    
-## Updated Components
-
--   controllers
-
-    -   german (CD)
-    -   hindi (CD)
-
--   models
-
-    -   italian (AB)
-
--   views
-
-    -   slovenian (AB)
-    -   swedish
 
 
