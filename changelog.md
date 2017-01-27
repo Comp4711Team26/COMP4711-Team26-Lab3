@@ -25,3 +25,12 @@ Release Date: Jan 26, 2017
 ### Updated Components
 
 - Changed main menu to use directory links
+
+## *Version 0.2*
+
+Release Date: Jan 26, 2017
+
+### Updated Components
+
+- updated template to reduce redundant duplication of code
+- changed controllers to accommodate template
