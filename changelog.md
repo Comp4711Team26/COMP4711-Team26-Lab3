@@ -1,4 +1,4 @@
-#Change Log
+# Change Log
 
 Team membership:  Braden D'Eith (Captain) & Matt Taylor (Mate)  
 Team conventions: Allman notation, markdown for changelog  
@@ -26,7 +26,7 @@ Release Date: Jan 26, 2017
 
 - Changed main menu to use directory links
 
-## *Version 0.2*
+## *Version 0.3*
 
 Release Date: Jan 26, 2017
 
@@ -34,3 +34,17 @@ Release Date: Jan 26, 2017
 
 - updated template to reduce redundant duplication of code
 - changed controllers to accommodate template
+
+## *Version 0.4*
+
+Release Date: Jan 29, 2017
+
+### New Components
+
+- Added table cell template for gallery tables
+
+- Image model created for database queries to images table
+
+### Updated Components
+
+- Updated gallery and welcome pages to build HTML dynamically from the images database
